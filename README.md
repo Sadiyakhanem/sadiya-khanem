@@ -38,8 +38,8 @@ AI-powered information retrieval system built with React (TypeScript) and a Pyth
 
 ## 📫 Reach me
 
-[![LinkedIn]{https://www.linkedin.com/in/tj-sadiya-khanem/}
-[![Email]{229x1a2920@gmail.com}
+[LinkedIn]{https://www.linkedin.com/in/tj-sadiya-khanem/}
+[Email]{229x1a2920@gmail.com}
 
 ---
 
