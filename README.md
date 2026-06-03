@@ -1,7 +1,7 @@
 
 # Hi, I'm Sadiya Khanem 👋
 
-Final-year B.Tech Computer Science student from Hyderabad, India.
+ B.Tech Computer Science student  India.
 I build full-stack applications and love working at the intersection of backend logic and clean UI.
 
 ---
